@@ -1,0 +1,3 @@
+Note to readers:
+
+Included in this folder is the source code for chapters 1-9, 11 and 12; source code for 10 and 13 should be available shortly (there is no code for chapter 14). We apologize for the delay.
